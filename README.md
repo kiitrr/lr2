@@ -180,6 +180,9 @@ pipeline {
 
 
 6. Внесите изменения в репозиторий и выполните коммит в ветку `master`.
-7. Убедитесь, что GitHub webhook корректно сработал, и Jenkins автоматически запустил повторную сборку.
+   <img width="889" height="646" alt="image" src="https://github.com/user-attachments/assets/b192d293-3ac3-48da-803d-71280892db66" />
+
+8. Убедитесь, что GitHub webhook корректно сработал, и Jenkins автоматически запустил повторную сборку.
+<img width="945" height="878" alt="image" src="https://github.com/user-attachments/assets/2f7da9e8-3d14-4e96-b933-9973aac3f519" />
 
 ***
